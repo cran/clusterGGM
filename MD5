@@ -1,12 +1,13 @@
-0b354cad14b9a1004abbc344de6d0c88 *DESCRIPTION
+fdb01cc7ec300e388df7e65b9441cd4d *DESCRIPTION
 0093e3230e179eb4940a7118c7be212b *NAMESPACE
+34ceab1f27cca6f430e415e2dca138bf *NEWS
 25e66044a530dfc4c802d249edf4efb6 *R/RcppExports.R
 c2d6b1ab611da4fb1e5aca55059e95e9 *R/accessors.R
-65df8a1180db1f365a1edb9858ae4600 *R/cggm.R
+3481684afe1035ac859a53b622ffb599 *R/cggm.R
 76e946896647a94534dd6e6803d99bc2 *R/cggm_cv.R
 68853689eee0a19bd1b1d5b70dd22665 *R/cggm_expand.R
 b4fdda16ebb49adb682e58fc40501b13 *R/cggm_refit.R
-35227a03b8da806903ab4e980dcfcd02 *R/cggm_wrapper.R
+f974e6cb5beed5c702835d7fbcb1e8ff *R/cggm_wrapper.R
 d23de8b5e5fa6b11e9f6b605afeeb3ee *R/clusterGGM-package.R
 d9c82df4e67c5bf7e596675760ca1b95 *R/clusterpath_weights.R
 e721777cc188c8ad0aff838ca0b064d3 *R/convert_cggm_output.R
@@ -18,8 +19,8 @@ f74120b02ee3899bb42dbda298e94e11 *R/cv_scores.R
 3e7d0152d3117e37d12ed1790bdf9949 *R/lasso_weights.R
 ea08d08d7d3e62ff067d2bc646b13720 *R/min_clusters.R
 bf623de1d639e0797203c9cfd0c54272 *README.md
-cab669bc94f5b61adba1bc9177d0dd78 *build/partial.rdb
-82f085fde75468848de2ea1f0cc8c56a *man/cggm.Rd
+d8077edd8d4729168ad31851067bb8a2 *build/partial.rdb
+68b4f70f4b8c9f4a43034551b98eec9a *man/cggm.Rd
 8e52b06d31983f15727f4dca4b3264b3 *man/cggm_cv.Rd
 df3fec63f88ab46d21bf2edb39be84e1 *man/cggm_refit.Rd
 79d6a7f3ca224117987ac2bab90079fa *man/clusterGGM-package.Rd
@@ -32,8 +33,7 @@ df3fec63f88ab46d21bf2edb39be84e1 *man/cggm_refit.Rd
 b4f0b014ec53404e843dbc718fabf57e *src/Makevars
 b4f0b014ec53404e843dbc718fabf57e *src/Makevars.win
 257d333a66d33b291122ea4f8ef33f74 *src/RcppExports.cpp
-96307b71268e66f992f90b950272f5ed *src/cggm_export.cpp
-fc59809655cc2087c16b4944cd980133 *src/clock.h
+95bef8177c422a8b9ba11706c42e9372 *src/cggm_export.cpp
 d307d7245b96fa2a09cd9e3a671480bc *src/disjoint_set.cpp
 19cc7313e33244aeb65942360b6f9373 *src/gradient.cpp
 273886a87e4f915bddd4729ee0cd08db *src/gradient.h
@@ -49,7 +49,7 @@ aff4f4ef580f171c776853c737abd507 *src/partial_sort.cpp
 e042747e67e939ec012b66623996c95c *src/result.h
 7793f44c1787a81786f8926714aa208a *src/step_size.cpp
 799a5edd6d3e4e3e5690276d9612c5fa *src/step_size.h
-e3a1b233750a6dd4c52ef0763c0b82f9 *src/utils.cpp
+87c2177790e8c8df0e56473f84af8082 *src/utils.cpp
 b95c523b93f87383d188a087d67fb23a *src/utils.h
 aae7f7703f88ce7acf34e38f3a7cae88 *src/variables.h
 db1694dde7ca53a2136a8fb4e1a8a870 *src/weights.cpp
